@@ -1,0 +1,7 @@
+.gradle/
+.kotlin/
+.gradle-user-home/
+.gradle-wrapper-bootstrap/
+local.properties
+build/
+app/build/

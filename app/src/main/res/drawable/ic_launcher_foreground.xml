@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- AR framing corners -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M28,38 L28,29 Q28,25 32,25 L40,25 M68,25 L76,25 Q80,25 80,29 L80,38 M80,70 L80,78 Q80,82 76,82 L68,82 M40,82 L32,82 Q28,82 28,78 L28,70"
+        android:strokeColor="#E9F3E9"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="3" />
+
+    <!-- Simple chair silhouette -->
+    <path
+        android:fillColor="#D8A15D"
+        android:pathData="M42,34 L66,34 Q69,34 69,37 L69,53 L39,53 L39,37 Q39,34 42,34 Z M34,55 L74,55 Q77,55 77,58 L77,62 L31,62 L31,58 Q31,55 34,55 Z" />
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M37,62 L40,78 M71,62 L68,78 M39,48 L39,57 M69,48 L69,57"
+        android:strokeColor="#F4E9D8"
+        android:strokeLineCap="round"
+        android:strokeWidth="4" />
+</vector>
